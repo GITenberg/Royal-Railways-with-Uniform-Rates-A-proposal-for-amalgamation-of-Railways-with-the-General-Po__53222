@@ -1,11 +1,16 @@
 _repo: Royal-Railways-with-Uniform-Rates-A-proposal-for-amalgamation-of-Railways-with-the-General-Po__53222
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53222-h/images/cover.jpg
 creator:
   author:
     agent_name: Arnold, Whately C.
     gutenberg_agent_id: '47275'
     url: http://www.gutenberg.org/2009/agents/47275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53222#Royal-Railways-with-Uniform-Rates-A-proposal-for-amalgamation-of-Railways-with-the-General-Po_
 gutenberg_issued: '2016-10-06'
 gutenberg_type: Text
 identifiers:
