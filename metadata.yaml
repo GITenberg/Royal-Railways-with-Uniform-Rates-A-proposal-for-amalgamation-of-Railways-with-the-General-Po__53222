@@ -1,0 +1,24 @@
+_repo: Royal-Railways-with-Uniform-Rates-A-proposal-for-amalgamation-of-Railways-with-the-General-Po__53222
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arnold, Whately C.
+    gutenberg_agent_id: '47275'
+    url: http://www.gutenberg.org/2009/agents/47275
+description: ''
+gutenberg_issued: '2016-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads and state -- Great Britain'
+- !lcc 'HE'
+- !lcsh 'Railroads -- Freight -- Rates -- Great Britain'
+- GITenberg
+title: "Royal Railways with Uniform Rates\r\nA proposal for amalgamation of Railways\
+  \ with the General Post Office and adoption of uniform fares and rates for any distance"
+url: http://www.gutenberg.org/ebooks/53222
